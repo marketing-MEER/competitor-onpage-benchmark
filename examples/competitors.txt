@@ -1,0 +1,4 @@
+examples/pages/pipelinehq.html
+examples/pages/salesdeck.html
+examples/pages/crmguide.html
+examples/pages/closeflow.html
